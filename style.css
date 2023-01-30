@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+}
+body{
+    background-color: #003566;
+}
+.Judul_1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -140%);
+    text-align: center;
+    font-size: 40px;
+    color: #ffc300;
+    font-family: 'Nunito', sans-serif;
+}
+hr{
+    width: 100%;
+    margin-top: 5px;
+    size: 10;
+    border-radius: 10px;
+}
+.Sub_1{
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translate(-600%,1900%);
+    font-size: 30px;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
+    color: #fefae0;
+}
+.Count{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fefae0;
+    font-size: 30px;
+    font-family: 'Nunito', sans-serif;
+}
